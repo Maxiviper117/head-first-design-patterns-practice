@@ -1,0 +1,1 @@
+Praticing design patterns form the book: *Head First Design Patterns* in `Javascript` and `Python`.
